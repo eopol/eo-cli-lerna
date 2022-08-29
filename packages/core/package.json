@@ -1,6 +1,6 @@
 {
   "name": "@eo-cli/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "eo-cli core",
   "author": "i7eo <admin@i7eo.com>",
   "homepage": "https://github.com/eopol/eo-cli/tree/master/packages/core#readme",
@@ -21,7 +21,7 @@
     "test": "echo \"Run core test\""
   },
   "dependencies": {
-    "@eo-cli/utils": "^1.0.1"
+    "@eo-cli/utils": "^1.0.2"
   },
   "bugs": {
     "url": "https://github.com/eopol/eo-cli/issues"
