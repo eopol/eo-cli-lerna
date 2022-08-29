@@ -1,0 +1,29 @@
+{
+  "name": "@eo-cli/core",
+  "version": "1.0.0",
+  "description": "eo-cli core",
+  "author": "i7eo <admin@i7eo.com>",
+  "homepage": "https://github.com/eopol/eo-cli/tree/master/packages/core#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eopol/eo-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Run core test\""
+  },
+  "dependencies": {
+    "@eo-cli/utils": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/eopol/eo-cli/issues"
+  }
+}
