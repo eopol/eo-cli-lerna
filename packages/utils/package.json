@@ -1,6 +1,6 @@
 {
   "name": "@eo-cli/utils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "eo-cli utils",
   "author": "i7eo <admin@i7eo.com>",
   "homepage": "https://github.com/eopol/eo-cli/tree/master/packages/utils#readme",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/eopol/eo-cli/issues"
   },
-  "gitHead": "862d20271200a1f3f667fd15f4983ae083b9a1ea"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "8387a67fafda0d1d2e47eb296d34602a521a8c88"
 }
