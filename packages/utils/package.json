@@ -1,6 +1,6 @@
 {
   "name": "@eo-cli/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eo-cli utils",
   "author": "i7eo <admin@i7eo.com>",
   "homepage": "https://github.com/eopol/eo-cli/tree/master/packages/utils#readme",
